@@ -1,0 +1,27 @@
+role,competency,required_level
+Statistical Officer,Survey Design,3
+Statistical Officer,Sampling,3
+Statistical Officer,Statistics,3
+Statistical Officer,Python,2
+Statistical Officer,SQL,2
+Statistical Officer,Data Visualization,2
+Statistical Officer,GIS,2
+Statistical Officer,AI and Machine Learning,2
+Data Analyst,Python,3
+Data Analyst,SQL,3
+Data Analyst,Data Visualization,3
+Data Analyst,Statistics,2
+Data Analyst,AI and Machine Learning,2
+GIS Analyst,GIS,3
+GIS Analyst,Python,2
+GIS Analyst,Data Visualization,3
+GIS Analyst,Open Data,2
+AI/ML Specialist,Python,3
+AI/ML Specialist,AI and Machine Learning,3
+AI/ML Specialist,SQL,2
+AI/ML Specialist,Data Visualization,2
+Project Manager,Project Management,3
+Project Manager,Leadership,3
+Project Manager,Communication,3
+Project Manager,Decision Making,3
+Project Manager,Change Management,2

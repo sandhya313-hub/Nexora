@@ -1,0 +1,24 @@
+course_id,course_name,domain,skills,level,duration_hours,description
+C001,Python for Data Analytics,Technical,Python|Data Visualization,Beginner,20,Learn Python programming and data analysis techniques
+C002,Advanced Python for Statistics,Technical,Python|Statistics,Advanced,30,Advanced Python techniques for statistical computing
+C003,SQL for Data Analytics,Technical,SQL|Open Data,Intermediate,18,Learn SQL querying and data management for analytics
+C004,Advanced SQL and Database Management,Technical,SQL,Advanced,25,Advanced database querying optimization and management
+C005,GIS Fundamentals,Technical,GIS|Data Visualization,Beginner,16,Introduction to geospatial data and GIS
+C006,GIS for Statistical Analysis,Technical,GIS|Data Visualization|Open Data,Intermediate,24,Apply GIS techniques to statistical and government datasets
+C007,Introduction to Machine Learning,Technical,AI and Machine Learning|Python,Beginner,25,Fundamentals of machine learning and predictive analytics
+C008,Applied Machine Learning for Statistics,Technical,AI and Machine Learning|Python|Statistics,Intermediate,30,Apply machine learning to statistical problems
+C009,Data Visualization with Python,Technical,Data Visualization|Python,Intermediate,15,Build effective analytical dashboards and visualizations
+C010,Statistical Survey Design,Statistical,Survey Design|Sampling,Intermediate,20,Design statistical surveys and sampling frameworks
+C011,Advanced Sampling Methods,Statistical,Sampling|Survey Design,Advanced,25,Advanced sampling techniques for official statistics
+C012,Data Quality Management,Statistical,Data Quality Frameworks|Metadata Standards,Intermediate,18,Data quality assessment and statistical metadata
+C013,National Accounts Fundamentals,Statistical,National Accounts,Beginner,20,Introduction to national accounting systems
+C014,Agricultural Statistics,Statistical,Agricultural Statistics,Intermediate,18,Agricultural data collection and statistical analysis
+C015,SDG Data and Indicators,Statistical,SDG Indicators|Open Data,Intermediate,16,Working with SDG indicators and development data
+C016,Cybersecurity Fundamentals,Digital Governance,Cybersecurity|Data Privacy,Beginner,15,Fundamentals of cybersecurity and secure data handling
+C017,Data Privacy and Governance,Digital Governance,Data Privacy|Digital Public Infrastructure,Intermediate,18,Data privacy governance and responsible data management
+C018,Cloud Computing Fundamentals,Technical,Cloud Computing,Beginner,20,Introduction to cloud platforms and services
+C019,APIs and Open Government Data,Technical,APIs|Open Data,Intermediate,15,Working with APIs and open government datasets
+C020,Leadership and Decision Making,Behavioural and Managerial,Leadership|Decision Making,Intermediate,12,Leadership and evidence-based decision making
+C021,Project Management Essentials,Behavioural and Managerial,Project Management|Communication,Beginner,15,Fundamentals of professional project management
+C022,Professional Ethics in Statistics,Behavioural and Managerial,Ethics,Intermediate,10,Ethics and responsible practices in official statistics
+C023,Change Management for Digital Transformation,Behavioural and Managerial,Change Management|Leadership,Intermediate,15,Managing organizational change during digital transformation

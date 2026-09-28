@@ -1,0 +1,35 @@
+competency_id,domain,competency,description,beginner,intermediate,advanced
+STAT001,Statistical,Survey Design,Designing and planning statistical surveys,1,2,3
+STAT002,Statistical,Sampling,Sampling methods and sample design,1,2,3
+STAT003,Statistical,National Accounts,Understanding national accounting systems,1,2,3
+STAT004,Statistical,Price Statistics,Price index and inflation statistics,1,2,3
+STAT005,Statistical,Labour Statistics,Labour market and employment statistics,1,2,3
+STAT006,Statistical,Agricultural Statistics,Agricultural data collection and analysis,1,2,3
+STAT007,Statistical,Industrial Statistics,Industrial production and economic statistics,1,2,3
+STAT008,Statistical,SDG Indicators,Statistical indicators for SDG monitoring,1,2,3
+STAT009,Statistical,Metadata Standards,Statistical metadata and standards,1,2,3
+STAT010,Statistical,Data Quality Frameworks,Data quality assessment and management,1,2,3
+STAT011,Statistical,Statistics,Statistical concepts probability and analytical methods,1,2,3
+TECH001,Technical,Python,Python programming for data analysis,1,2,3
+TECH002,Technical,R,R programming for statistical analysis,1,2,3
+TECH003,Technical,SQL,Database querying and data management,1,2,3
+TECH004,Technical,Stata,Statistical analysis using Stata,1,2,3
+TECH005,Technical,SPSS,Statistical analysis using SPSS,1,2,3
+TECH006,Technical,SAS,Statistical analysis using SAS,1,2,3
+TECH007,Technical,GIS,Geospatial data analysis and visualization,1,2,3
+TECH008,Technical,Data Visualization,Creating analytical visualizations and dashboards,1,2,3
+TECH009,Technical,AI and Machine Learning,AI and ML concepts and applications,1,2,3
+TECH010,Technical,Cloud Computing,Cloud platforms and cloud-based data processing,1,2,3
+TECH011,Technical,APIs,Working with application programming interfaces,1,2,3
+TECH012,Technical,Open Data,Working with open government data,1,2,3
+GOV001,Digital Governance,Cybersecurity,Security principles for digital systems,1,2,3
+GOV002,Digital Governance,Data Privacy,Privacy and responsible data handling,1,2,3
+GOV003,Digital Governance,Digital Signatures,Digital authentication and signatures,1,2,3
+GOV004,Digital Governance,Government Cloud,Government cloud infrastructure concepts,1,2,3
+GOV005,Digital Governance,Digital Public Infrastructure,Digital public infrastructure concepts,1,2,3
+BEH001,Behavioural and Managerial,Leadership,Leadership and team management,1,2,3
+BEH002,Behavioural and Managerial,Communication,Professional communication skills,1,2,3
+BEH003,Behavioural and Managerial,Project Management,Planning and managing projects,1,2,3
+BEH004,Behavioural and Managerial,Ethics,Professional and statistical ethics,1,2,3
+BEH005,Behavioural and Managerial,Decision Making,Analytical and evidence-based decision making,1,2,3
+BEH006,Behavioural and Managerial,Change Management,Managing organizational and technological change,1,2,3
